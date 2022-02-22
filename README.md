@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api?username=carlosdanielcabral
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdanielcabral)](https://github.com/carlosdanielcabral/github-readme-stats)
