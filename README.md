@@ -1,3 +1,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdanielcabral&show_icons=true)
 
-![Linkedin Badge](https://img.shields.io/badge/-[Carlos Daniel Cabral]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/carlos-daniel-cabral/])([https://www.linkedin.com/in/carlos-daniel-cabral/])
+<a href="[https://www.linkedin.com/in/carlos-daniel-cabral/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
