@@ -10,6 +10,7 @@ Link do meu portfólio: https://carlosdanielcabral.github.io/
 - CSS
 - JavaScript
 - React
+- Redux
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdanielcabral&show_icons=true)
 
