@@ -1,6 +1,6 @@
 # Olá!
 
-Estudante de Desenvolvimento Web na Trybe e Análise e Desenvolvimento de Sistemas na Faculdade Católica Paulista, meu nome é Carlos Daniel Cabral e sou apaixonado por programação. Possuo conhecimentos tanto em front-end como em back-end, mas meu foco é no primeiro – eu me empolgo quando vejo algumas linhas de código vivificando uma aplicação, dando-lhe cor, forma, consumindo uma API e permitindo uma interação mais agradável por parte do usuário.
+Estudante de Desenvolvimento Web na Trybe e Análise e Desenvolvimento de Sistemas na Faculdade Católica Paulista, meu nome é Carlos Daniel Cabral e sou apaixonado por programação. Possuo conhecimentos tanto em front-end como em back-end, mas meu foco, hoje, é no primeiro – eu me empolgo quando vejo algumas linhas de código vivificando uma aplicação, dando-lhe cor, forma, consumindo uma API e permitindo uma interação mais agradável por parte do usuário.
 
 ## Principais habilidades
 
