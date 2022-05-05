@@ -6,6 +6,7 @@ Desenvolver Front End, Estudante de Desenvolvimento Web Full Stack na Trybe e An
 
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 - React
 - Redux
