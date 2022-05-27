@@ -1,6 +1,6 @@
 # Olá!
 
-Desenvolver Front End, Estudante de Desenvolvimento Web Full Stack na Trybe e Análise e Desenvolvimento de Sistemas na Faculdade Católica Paulista, meu nome é Carlos Daniel Cabral e sou apaixonado por programação. Possuo conhecimentos tanto em front-end como em back-end, mas meu foco, hoje, é no primeiro – eu me empolgo quando vejo algumas linhas de código vivificando uma aplicação, dando-lhe cor, forma, consumindo uma API e permitindo uma interação mais agradável por parte do usuário.
+Estudante de Desenvolvimento Web na Trybe e Análise e Desenvolvimento de Sistemas na Faculdade Católica Paulista, sou apaixonado por programação e possuo conhecimentos tanto em front-end (HTML, CSS, Javascript, React, NextJS) como em back-end (PHP, MySQL, Sequelize, NodeJS).
 
 ## Principais habilidades
 
@@ -12,6 +12,9 @@ Desenvolver Front End, Estudante de Desenvolvimento Web Full Stack na Trybe e An
 - Redux
 - Context API
 - NextJS
+- NodeJS
+- Sequelize
+- PHP
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdanielcabral&show_icons=true)
 
