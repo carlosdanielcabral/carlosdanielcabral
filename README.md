@@ -6,7 +6,7 @@ Estudante de Desenvolvimento Web na Trybe e Análise e Desenvolvimento de Sistem
 
 ### Linguagens de programação
 
-HTML, CSS, Javascript, Typescript, PHP, SQL.
+HTML, <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />, Javascript, Typescript, PHP, SQL.
 
 ### Bibliotecas, frameworks e outras tecnologias
 
