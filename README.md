@@ -1,20 +1,16 @@
 # Olá!
 
-Estudante de Desenvolvimento Web na Trybe e Análise e Desenvolvimento de Sistemas na Faculdade Católica Paulista, sou apaixonado por programação e possuo conhecimentos tanto em front-end (HTML, CSS, Javascript, React, NextJS) como em back-end (PHP, MySQL, Sequelize, NodeJS).
+Estudante de Desenvolvimento Web na Trybe e Análise e Desenvolvimento de Sistemas na Faculdade Católica Paulista, sou apaixonado por programação e possuo conhecimentos tanto em front-end como em back-end.
 
 ## Principais habilidades
 
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- React
-- Redux
-- Context API
-- NextJS
-- NodeJS
-- Sequelize
-- PHP
+### Linguagens de programação
+
+HTML, CSS, Javascript, Typescript, PHP, SQL.
+
+### Bibliotecas, frameworks e outras tecnologias
+
+Bootstrap, React, Redux, NextJS, NodeJS, Express, Sequelize, Jest, RTL, Mocha, Chai, Docker.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdanielcabral&show_icons=true)
 
