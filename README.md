@@ -19,6 +19,4 @@ Estudante de Desenvolvimento Web na Trybe e Análise e Desenvolvimento de Sistem
 
 ## Contato
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlos-daniel-cabral/)
-
-[<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mailto:dev.carlosdaniel@gmail.com)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlos-daniel-cabral/) [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mailto:dev.carlosdaniel@gmail.com)
