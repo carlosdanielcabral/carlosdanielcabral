@@ -15,7 +15,7 @@ Estudante de Desenvolvimento Web na Trybe e Análise e Desenvolvimento de Sistem
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdanielcabral&show_icons=true)
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdanielcabral&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdanielcabral&layout=compact)
 
 ## Contato
 
