@@ -1,6 +1,6 @@
 # Olá!
 
-  Meu nome é Carlos Daniel Cabral e sou um Desenvolvedor de Software apaixonado pelo que faz. Meu contato com programação começou há quase 5 anos, com Python, e há quase dois anos venho me especializando em Desenvolvimento Web. Atualmente possuo conhecimentos tanto em front-end (especialmente com React e Next) quanto em backend (principalmente com Node e banco de dados relacionais).
+  Meu nome é Carlos Daniel Cabral e sou um Desenvolvedor de Software apaixonado pelo que faz. Meu contato com programação começou há quase 5 anos, com Python, e há quase dois anos venho me especializando em Desenvolvimento Web. Atualmente possuo conhecimentos tanto em front-end (especialmente com React e Next) quanto em backend (principalmente em PHP, Node e banco de dados relacionais).
 
 
 ## Principais habilidades
