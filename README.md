@@ -7,7 +7,7 @@
 
 ### Linguagens
 
-HTML, CSS, Javascript, Typescript, PHP.
+HTML, CSS, Javascript, Typescript, PHP, Python.
 
 ### Bibliotecas, frameworks e outras tecnologias
 
