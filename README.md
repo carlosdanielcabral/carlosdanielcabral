@@ -15,7 +15,7 @@ Bootstrap, React, Redux, NextJS, NodeJS, Express, MySQL, Sequelize, Jest, RTL, M
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdanielcabral&show_icons=true)
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdanielcabral&layout=compact)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdanielcabral&hide=html,css&layout=compact)
 
 ## Contato
 
