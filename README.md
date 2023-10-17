@@ -11,7 +11,7 @@ HTML, CSS, Javascript, Typescript, PHP, Python, C#
 
 ### Bibliotecas, frameworks e outras tecnologias
 
-Bootstrap, React, Redux, NextJS, NodeJS, Express, MySQL, Sequelize, Jest, RTL, Mocha, Chai, Docker, .Net Core
+Bootstrap, React, Redux, NextJS, NodeJS, Express, MySQL, SQL Server, Sequelize, Jest, RTL, Mocha, Chai, Docker, .Net Core
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdanielcabral&hide=html,css&layout=compact)
 
