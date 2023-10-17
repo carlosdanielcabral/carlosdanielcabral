@@ -13,8 +13,6 @@ HTML, CSS, Javascript, Typescript, PHP, Python.
 
 Bootstrap, React, Redux, NextJS, NodeJS, Express, MySQL, Sequelize, Jest, RTL, Mocha, Chai, Docker.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdanielcabral&show_icons=true)
-
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdanielcabral&hide=html,css&layout=compact)
 
 ## Contato
