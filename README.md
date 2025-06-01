@@ -1,15 +1,16 @@
-# Olá!
+# Olá 👋
 
-  Meu nome é Carlos Daniel Cabral e sou um Desenvolvedor de Software apaixonado pelo que faz. Meu contato com programação começou há quase 5 anos, com Python, e há quase dois anos venho me especializando em Desenvolvimento Web. Atualmente possuo conhecimentos tanto em front-end (especialmente com React e Next) quanto em backend (principalmente em PHP, Node e banco de dados relacionais).
+Minha trajetória no universo da programação começou há 7 anos, através da linguagem Python, incialmente como um hobby. 
 
+Com o tempo, o hobby virou uma paixão e para aprofundar meus conhecimentos, ingressei no curso de Análise e Desenvolvimento de Sistemas. No ano seguinte, iniciei meus estudos em Desenvolvimento Web na Trybe, uma escola de programação com foco na formação de profissionais preparados para o mercado de trabalho.
 
-## Principais habilidades
+Atualmente, atuo como desenvolvedor, aplicando as ferramentas e conhecimentos adquiridos ao longo desses anos para criar soluções que geram impacto positivo e facilitam a vida de diversas pessoas.
 
-### Linguagens
+## Linguagens
 
 HTML, CSS, Javascript, Typescript, PHP, Python, C#
 
-### Bibliotecas, frameworks e outras tecnologias
+## Bibliotecas, frameworks e outras tecnologias
 
 Bootstrap, React, Redux, NextJS, NodeJS, Express, MySQL, SQL Server, Sequelize, Jest, RTL, Mocha, Chai, Docker, .Net Core
 
