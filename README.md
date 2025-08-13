@@ -6,7 +6,7 @@ Com o tempo, o hobby virou uma paixão e para aprofundar meus conhecimentos, ing
 
 Atualmente, atuo como desenvolvedor com foco em backend, aplicando as ferramentas e conhecimentos adquiridos ao longo desses anos para criar soluções que geram impacto positivo e facilitam a vida de diversas pessoas.
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdanielcabral&hide=html,css,hack&layout=compact)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdanielcabral&hide=html,css,hack,dockerfile&layout=compact)
 
 ## Contato
 
